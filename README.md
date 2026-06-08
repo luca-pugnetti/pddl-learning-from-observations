@@ -2,16 +2,16 @@
 
 This repository contains the implementation of an AI agent designed to automatically infer a symbolic PDDL domain model by observing state transitions within a stochastic, partially observable grid world environment. Instead of receiving pre-defined logical operators, the agent reconstructs the domain rules directly from action execution logs, separating successes from failures and lifting concrete episodes into generalized, reusable parametric rules.
 
-Developed as a project for the **Artificial Intelligence** course at the **Università di Brescia**[cite: 2].
+Developed as a project for the **Artificial Intelligence** course at the **Università di Brescia**.
 
 ---
 
 ## Project Structure & Verbatim Files
 
 The core files included in this project are:
-* `PDDL_domain_inference_from_observed_plans.ipynb`: The main notebook containing the experiment environment simulation, data collection, and parametric operator learning framework[cite: 1].
-* `report.pdf`: The detailed academic report explaining the problem framework positioning, logical notation, architecture, and convergence metrics[cite: 3].
-* `presentation.pdf`: The summary slide deck introducing the methodology, pipeline pipeline, and results[cite: 2].
+* `PDDL_domain_inference_from_observed_plans.ipynb`: The main notebook containing the experiment environment simulation, data collection, and parametric operator learning framework.
+* `report.pdf`: The detailed academic report explaining the problem framework positioning, logical notation, architecture, and convergence metrics.
+* `presentation.pdf`: The summary slide deck introducing the methodology, pipeline pipeline, and results.
 
 ---
 
